@@ -24,3 +24,9 @@ Add this to your pom.xml
 		<artifactId>jtattoo</artifactId>
 		<version>1.6.0</version>
 	</dependency>
+	
+	<dependency>
+		<groupId>com.alee</groupId>
+		<artifactId>weblookandfeel</artifactId>
+		<version>1.4.0-preview</version>
+	</dependency>
