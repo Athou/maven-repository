@@ -18,3 +18,9 @@ Add this to your pom.xml
       <artifactId>jaad</artifactId>
       <version>0.8.3</version>
     </dependency>
+	
+	<dependency>
+		<groupId>net.jtattoo</groupId>
+		<artifactId>jtattoo</artifactId>
+		<version>1.6.0</version>
+	</dependency>
