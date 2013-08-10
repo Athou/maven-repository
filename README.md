@@ -30,3 +30,9 @@ Add this to your pom.xml
 		<artifactId>weblookandfeel</artifactId>
 		<version>1.4.0-preview</version>
 	</dependency>
+	
+	<dependency>
+		<groupId>com.noinnion.android.reader.api</groupId>
+		<artifactId>reader-api</artifactId>
+		<version>r1</version>
+	</dependency>
