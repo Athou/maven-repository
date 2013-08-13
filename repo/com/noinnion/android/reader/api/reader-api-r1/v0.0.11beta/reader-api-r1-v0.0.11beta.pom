@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.noinnion.android.reader.api</groupId>
-  <artifactId>reader-api</artifactId>
-  <version>r1</version>
+  <artifactId>reader-api-r1</artifactId>
+  <version>v0.0.11beta</version>
 </project>
